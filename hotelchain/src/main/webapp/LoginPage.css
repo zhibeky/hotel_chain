@@ -1,0 +1,36 @@
+body {
+  background-color: #b7d7e8;
+}
+div {
+  background-color: #87bdd8;
+  padding: 50px;
+  margin: 200px 400px 200px 400px;
+  box-sizing: border-box;
+}
+input[type=submit] {
+  background-color: #b7d7e8;
+  border: none;
+  margin: 20px 40px 20px 40px;
+  border-radius: 15px;
+  padding: 10px 50px 10px 50px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+td {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+input[type=text] {
+  border: 2px solid #b7d7e8;
+  border-radius: 4px;
+}
+input[type=text]:focus {
+  border: 3px solid #555;
+}
+input[type=password] {
+  border: 2px solid #b7d7e8;
+  border-radius: 4px;
+}
+input[type=password]:focus {
+  border: 3px solid #555;
+}
