@@ -1,0 +1,8 @@
+body {
+  background-color: #b7d7e8;
+}
+div {
+  padding: 50px;
+  margin: 200px 400px 200px 400px;
+  box-sizing: border-box;
+}
