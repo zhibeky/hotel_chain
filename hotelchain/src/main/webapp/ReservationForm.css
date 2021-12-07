@@ -1,0 +1,77 @@
+body {
+  background-color: #b7d7e8;
+}
+h2 {
+  text-align: center;
+}
+.card {
+  background-color: #87bdd8;
+  padding: 50px;
+  margin: 30px 400px 50px 400px;
+  box-sizing: border-box;
+}
+button[type=submit] {
+  background-color: #b7d7e8;
+  border: none;
+  margin: 20px 40px 20px 150px;
+  border-radius: 15px;
+  padding: 10px 50px 10px 50px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+.form-group {
+  border: none;
+  font-family: "Times New Roman", Times, serif;
+  margin: 3px 40px 3px 80px;
+  box-sizing: border-box;
+  text-align: center;
+}
+input[type=text] {
+  border: 2px solid #b7d7e8;
+  border-radius: 4px;
+}
+input[type=text]:focus {
+  border: 3px solid #555;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.res {
+  list-style-type: none;
+  margin: 50px 10px 0px 10px;
+  padding: 5px;
+  width: 300px;
+}
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  background-color: #f1f1f1;
+  margin-top: 0px;
+  margin-left: 10px;
+}
+a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+}
+a:hover {
+  background-color: #87bdd8;
+  color: white;
+}
+a:link {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: #667292;
+    font-size: 2rem;
+    font-weight: normal;
+}
+a.harvard {
+    color: maroon;
+}
